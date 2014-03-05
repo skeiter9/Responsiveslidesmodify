@@ -1,0 +1,1 @@
+Responsiveslides.js format 
